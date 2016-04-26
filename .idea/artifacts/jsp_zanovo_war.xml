@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jsp_zanovo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="com.jsp_zanovo.war">
+      <element id="artifact" artifact-name="jsp_zanovo:war exploded" />
+    </root>
+  </artifact>
+</component>
